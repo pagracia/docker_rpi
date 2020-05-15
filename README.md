@@ -7,6 +7,10 @@ SonarQube
 
 Image for [SonarQube](https://www.sonarqube.org/) 7.9.3 community edition. It is built in Ubuntu 18.04 with OpenJDK 11.
 
+## Jenkins
+
+Image for [Jenkins](https://www.jenkins.io/) 2.222.3 LTS edition. It is built in Ubuntu 18.04 with OpenJDK 8.
+
 
 Requests or Issues
 ------------

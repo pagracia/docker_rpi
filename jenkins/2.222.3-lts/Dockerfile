@@ -1,4 +1,4 @@
-# Build SonarQube image for Raspberry PI 4
+# Build Jenkins image for Raspberry PI 4
 FROM ubuntu:18.04
 
 LABEL version="1.0" \
